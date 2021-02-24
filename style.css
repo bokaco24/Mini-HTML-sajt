@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(195, 200, 207);
+}
+nav {
+    display: inline-block;
+    position: relative;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+aside {
+    display: inline-block;
+    position: absolute;
+    border-left: 1px solid black;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+li {
+    margin-bottom: 4px;
+
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#image {
+    text-align: center;
+    margin-bottom: 50px;
+}

@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(195, 200, 207)
+}
+
+nav {
+    display: inline-block;
+    position: relative;
+    padding-right: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+
+aside {
+
+    display: inline-block;
+    position: absolute ;
+    border-left: 1px solid black;
+    padding-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.3em;
+}
+
+li {
+    margin-bottom: 4px;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+ h4 {
+    margin: 50px 0;
+    text-decoration: underline;
+    text-align: center;
+}
+
+ table {
+    display: table;
+    width: 60%;
+    position: relative;
+    margin: auto;
+}
+
+ table,th,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: rgb(128, 0, 6);
+    padding: 10px;
+}
+
+td {
+    background-color: rgb(126, 71, 255);
+    padding: 10px;
+}
+
+.naslov {
+    font-style: italic;
+}
+
